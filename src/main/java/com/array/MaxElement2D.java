@@ -1,4 +1,4 @@
-package array;
+package com.array;
 
 public class MaxElement2D {
 	// Java code to find max element in a matrix

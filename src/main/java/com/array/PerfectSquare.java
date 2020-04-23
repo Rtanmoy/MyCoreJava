@@ -1,4 +1,4 @@
-package array;
+package com.array;
 
 public class PerfectSquare {
 	static boolean perfectSqare(double x) {

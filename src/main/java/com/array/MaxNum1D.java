@@ -1,4 +1,4 @@
-package array;
+package com.array;
 
 public class MaxNum1D {
 	public static int getLargest(int[] a, int total) {

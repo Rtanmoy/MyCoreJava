@@ -13,6 +13,7 @@ class Node{
 	
 	public void insert(int data) {
 		if(head==null) {
+			head=n
 			
 		}
 	}

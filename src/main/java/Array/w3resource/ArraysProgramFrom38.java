@@ -2,7 +2,6 @@ package Array.w3resource;
 
 import java.util.Arrays;
 import java.util.HashMap;
-import java.util.Iterator;
 import java.util.Map;
 
 public class ArraysProgramFrom38 {
